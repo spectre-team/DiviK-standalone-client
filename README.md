@@ -9,10 +9,10 @@ In order to build and run the application, please refer to the
 
 ## About
 
-This is desktop client for Divisive IK-means algorithm for unsupervised
+This is a desktop client for the Divisive IK-means algorithm for unsupervised
 segmentation, which can be used for efficient dataset compression, as
-well as for knowledge discovery. It has already been published and
-referring links have been enclosed under [references](#references) section.
+well as knowledge discovery. It has already been published and
+referring links have been enclosed under the [references](#references) section.
 
 ## Install
 
